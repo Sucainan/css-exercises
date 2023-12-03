@@ -1,0 +1,20 @@
+/*style.css*/
+.fgh {
+    color: lightsalmon;
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+#gg {
+    color: blue;
+    font-size: 36px;
+}
+#fty {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+.fgh .ft {
+    font-size: 24px;
+
+}
